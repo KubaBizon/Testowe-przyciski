@@ -7,7 +7,6 @@
 body {
   height: 100vh;
   font-family: "Ubuntu", sans-serif;
-  overflow: hidden;
   color: #fff;
   background: linear-gradient(10deg, #2483ff 60%, #2c6afb 60%);
 }
@@ -33,7 +32,7 @@ ul {
 }
 
 .menu-item:hover {
-  background-color: #363636;
+  background-color: #aa0d0d;
 }
 
 .dropdown {
